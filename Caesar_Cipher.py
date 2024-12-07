@@ -1,15 +1,4 @@
 def caesar_cipher(text, shift, mode):
-    """
-    Encrypt or decrypt text using Caesar Cipher.
-    
-    Args:
-    text (str): The input text to process.
-    shift (int): The number of positions to shift the characters.
-    mode (str): 'encrypt' to encrypt, 'decrypt' to decrypt.
-    
-    Returns:
-    str: The processed text.
-    """
     if mode == "decrypt":
         shift = -shift
     
