@@ -1,4 +1,4 @@
-Programul Caesar Cipher
+# Programul Caesar Cipher
 
 Acest program scris in python implementeaza cei mai simplu algoritmi de encryptie si decriptie cunoscut, care este Caesar Cipher, in care fiecare litera se muta de la numarul specificat de locuri. It can both be message encrypted and a message decryption and allows the user of the program to go into a loop until he decides not to.
 
